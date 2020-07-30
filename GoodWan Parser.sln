@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodWan Parser", "GoodWan Parser\GoodWan Parser.csproj", "{7D94C8CF-58E9-409C-A5D1-CC74E5CF6811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodWan", "GoodWan\GoodWan.csproj", "{74458A7E-74B9-4868-8967-9FFBCEB93048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D94C8CF-58E9-409C-A5D1-CC74E5CF6811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D94C8CF-58E9-409C-A5D1-CC74E5CF6811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D94C8CF-58E9-409C-A5D1-CC74E5CF6811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D94C8CF-58E9-409C-A5D1-CC74E5CF6811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74458A7E-74B9-4868-8967-9FFBCEB93048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74458A7E-74B9-4868-8967-9FFBCEB93048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74458A7E-74B9-4868-8967-9FFBCEB93048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74458A7E-74B9-4868-8967-9FFBCEB93048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AD397AA-125A-4D67-8A63-5E7C773C0FC4}
+	EndGlobalSection
+EndGlobal

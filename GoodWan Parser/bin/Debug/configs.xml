@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Config>
+    <SQLConnectionString>Data Source=DESKTOP-S5S8G6O ;Initial Catalog=SensorSet;Integrated Security=True </SQLConnectionString>
+</Config>  

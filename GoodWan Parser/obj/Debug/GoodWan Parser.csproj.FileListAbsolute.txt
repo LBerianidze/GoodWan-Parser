@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\bin\Debug\GoodWan Parser.exe.config
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\bin\Debug\GoodWan Parser.exe
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\bin\Debug\GoodWan Parser.pdb
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\bin\Debug\GoodWan.dll
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\bin\Debug\GoodWan.pdb
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan Parser.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan_Parser.Form1.resources
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan_Parser.Properties.Resources.resources
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan Parser.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan Parser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan Parser.csproj.CopyComplete
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan Parser.exe
+C:\Users\User\source\repos\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan Parser.pdb
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\bin\Debug\GoodWan Parser.exe.config
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\bin\Debug\GoodWan Parser.exe
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\bin\Debug\GoodWan Parser.pdb
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\bin\Debug\GoodWan.dll
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\bin\Debug\GoodWan.pdb
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan Parser.csprojAssemblyReference.cache
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan_Parser.Form1.resources
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan_Parser.Properties.Resources.resources
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan Parser.csproj.GenerateResource.cache
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan Parser.csproj.CoreCompileInputs.cache
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan Parser.csproj.CopyComplete
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan Parser.exe
+C:\Users\Bek\Desktop\практика 2020\GoodWan Parser\GoodWan Parser\obj\Debug\GoodWan Parser.pdb
